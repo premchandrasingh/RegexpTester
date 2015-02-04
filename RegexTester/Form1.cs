@@ -13,6 +13,7 @@ namespace RegexTester
     {
         private Regex m_Regex = null;
 
+
         public Form1()
         {
             InitializeComponent();
